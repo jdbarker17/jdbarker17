@@ -23,15 +23,15 @@ Hey there, I'm Jon—a passionate software engineer at Ford, where I'm building 
 
 ---
 
-## 🌍 Let's Connect
+##  Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jon-barker-366781b8/)
 
 ---
 
-## 🎸 Fun Facts
+## 🎸 Non-Work stuff
 
-- Guitarist in a band  
+- I play guitar in a band called TSB 
 - Chess enthusiast and occasional competitor
 
 ---
