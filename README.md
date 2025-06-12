@@ -1,16 +1,41 @@
-## Hi there 👋
+ 👋 Hi, I'm Jon Barker
 
-<!--
-**jdbarker17/jdbarker17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚗 Connected Vehicle Software Engineer @ Ford Motor Company
 
-Here are some ideas to get you started:
+Hey there, I'm Jon—a passionate software engineer at Ford, where I'm building the future of connected vehicles. I blend my love for technology and innovation with hands-on systems engineering to create smart solutions for the automotive world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Top Skills
+- **Python**
+- **C++**
+- **Systems Engineering**
+
+---
+
+## 🚀 Featured Projects
+
+- **Smartweight Project**  
+  _An intelligent system that detects exercise and rep count, bringing smarter fitness tracking to life._
+
+- **Mach-E Battery Design**  
+  _Engineered next-gen battery systems for the Mustang Mach-E, pushing the boundaries of EV technology._
+
+---
+
+## 🌍 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jon-barker-366781b8/)
+
+---
+
+## 🎸 Fun Facts
+
+- Guitarist in a band  
+- Chess enthusiast and occasional competitor
+
+---
+
+> “Building my future, one line of code at a time.”
+
+Thanks for stopping by! 🚀
